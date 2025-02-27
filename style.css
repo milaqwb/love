@@ -101,10 +101,99 @@ article{
 .img-class{
     width: 200px;
     position: relative;
-    top: -2100px;
+    top: -900px;
     left: 500px;
 }
 .img-metro{
     width: 200px;
     position: relative;
+    top: -800px;
+    left: 490px;
+}
+.img-metro-second{
+    width: 200px;
+    position: relative;
+    top: -1000px;
+    left: 700px;
+}
+.img-metro-third{
+    width: 200px;
+    position: relative;
+    top: -1000px;
+    left: 290px;
+}
+.img-metro-fourth{
+    width: 200px;
+    position: relative;
+    top: -1030px;
+    right: 120px;
+}
+.img-dvor{
+    width: 200px;
+    position: relative;
+    top: -1035px;
+    right: 520px;
+}
+.img-dvor-second{
+    width: 200px;
+    position: relative;
+    top: -1035px;
+    left: 100px;
+}
+.img-that{
+    width: 200px;
+    position: relative;
+    top: -750px;
+    right: 530px;
+}
+.ing-cat{
+    width: 200px;
+    position: relative;
+    top: -800px;
+    right: 540px;
+}
+.img-foode{
+    width: 200px;
+    position: relative;
+    top: -870px;
+    right: 530px;
+}
+.p-love{
+    width: 500px;
+    position: relative;
+    top: -700px;
+    left: 800px;
+}
+.img-migalki{
+    width: 500px;
+    position: relative;
+    top: -600px;
+    left: 500px;
+}
+.migalki-button{
+    width: 100px;
+    height: 70px;
+    position: relative;
+    top: -630px;
+    right: 5px;
+    background-color: bisque;
+    border: 1px solid #fff;
+}
+.migalki-button:hover{
+    cursor: pointer;
+    width: 150px;
+    border: 5px solid #000;
+    border-radius: 5px;
+}
+.last-img{
+    width: 500px;
+    position: relative;
+    top: -1130px;
+    left: 1500px;
+}
+.last-p{
+    width: 500px;
+    position: relative;
+    top: -1300px;
+    left: 900px;
 }
