@@ -1,0 +1,110 @@
+body{
+    background-color: #cfb997;
+}
+h1{
+    width: 500px;
+    position: relative;
+    left: 1000px;
+}
+h1:hover{
+    color: aqua;
+    cursor: pointer;
+}
+h2:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.container-dec{
+    width: 200px;
+    height: 200px;
+}
+.img-dec{
+    width: 150px;
+    height: 200px;
+}
+.img-dec:hover{
+   width: 250px;
+}
+.p-dec{
+    position: relative;
+    top: -20px;
+}
+.ing-fridge{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    top: -200px;
+    left: 250px;
+}
+.ing-fridge:hover{
+    width: 300px;
+}
+.p-fridge{
+    width: 250px;
+    position: relative;
+    top: -220px;
+    left: 250px;
+}
+.first-img{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    top: -520px;
+    left: 500px;
+}
+.first-img:hover{
+    width: 300px;
+}
+.first-p{
+    width: 300px;
+    position: relative;
+    top: -540px;
+    left: 500px;
+}
+.second-img{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    top: -830px;
+    left: 800px;
+}
+.second-img:hover{
+    width: 300px;
+}
+.second-p{
+    width: 300px;
+    position: relative;
+    top: -850px;
+    left: 800px;
+}
+.img-food{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    top: -1100px;
+    left: 1050px;
+}
+.img-food:hover{
+    width: 300px;
+}
+.p-food{
+    position: relative;
+    top: -1120px;
+    left: 1070px;
+}
+article{
+    position: relative;
+    top: -1050px;
+    left: 1000px;
+    color: blueviolet;
+}
+.img-class{
+    width: 200px;
+    position: relative;
+    top: -2100px;
+    left: 500px;
+}
+.img-metro{
+    width: 200px;
+    position: relative;
+}
